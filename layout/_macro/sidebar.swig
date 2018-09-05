@@ -187,6 +187,12 @@
         </div>
       {% endif %}
 
+      {% if theme.revolvermaps %}
+      <div>
+        <script type="text/javascript" src="//ra.revolvermaps.com/0/0/6.js?i=0q7scpwe1yy&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=lucida_console&amp;l=0" async="async"></script>
+      </div>
+      {% endif %}
+
     </div>
   </aside>
 {% endmacro %}

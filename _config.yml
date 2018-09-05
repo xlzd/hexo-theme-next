@@ -187,8 +187,10 @@ links_icon: link
 links_title: Links
 links_layout: block
 #links_layout: inline
-#links:
-  #Title: http://example.com/
+# links:
+  # Someone: http://example.com/
+
+revolvermaps: true
 
 # Sidebar Avatar
 avatar:
@@ -475,13 +477,13 @@ pangu: false
 #swiftype_key:
 
 # Baidu Analytics ID
-#baidu_analytics:
+baidu_analytics: 70df08067fbb3792c8ee0bc6eb269fd8
 
 # Disqus
 disqus:
   enable: true
   shortname: xlzd
-  count: true
+  count: false
   lazyload: false
 
 # changyan
